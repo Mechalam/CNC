@@ -1,4 +1,4 @@
-# CNC
+# cnc4A
 
 A simple GUI for GRBL. 
 It's a upgradation of gctrl <https://github.com/damellis/gctrl/> by introducing buttons
